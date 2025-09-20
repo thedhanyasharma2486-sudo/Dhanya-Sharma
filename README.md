@@ -1,17 +1,19 @@
-# 👋 Hi, I'm Dhanya Sharma  
+<h1 align="center"> 
+  Hi 👋, I'm Dhanya Sharma  
+</h1>
 
-🎓 2nd Year B.Tech IT Student at **Ajay Kumar Garg Engineering College, Ghaziabad**  
-💻 Passionate about **Coding, Problem Solving, and Web Development**  
-🌱 Currently learning **DSA, Python, and Web Technologies**  
-✨ Goal: To become a skilled Software Engineer & contribute to impactful projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+IT+Student;Passionate+about+Coding+%26+Problem+Solving;Learning+DSA+and+Web+Development;Future+Software+Engineer+in+the+making!" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🌟 Curious learner exploring **AI & Development**  
-- 📚 Practicing **Data Structures & Algorithms** on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourGFGusername/)  
-- 🎯 Interested in **Open Source, Competitive Programming, and Machine Learning**  
-- ✨ Love to design creative stuff in my free time  
+- 🎓 2nd Year B.Tech IT Student at **Ajay Kumar Garg Engineering College, Ghaziabad**  
+- 🌱 Currently learning **DSA, Python, and Web Technologies**  
+- 📚 Solving problems on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourGFGusername/)  
+- 💻 Exploring **Open Source, Competitive Programming, and Machine Learning**  
+- 🎨 Love designing and exploring new ideas in my free time  
 
 ---
 
@@ -28,6 +30,7 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGithubUsername&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourGithubUsername&theme=radical)
 
 ---
 
@@ -36,13 +39,31 @@
 
 ---
 
+## 📈 Activity Graph
+![Dhanya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourGithubUsername&theme=react-dark&hide_border=true)
+
+---
+
+
+---
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🎨 Fun Zone
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Coder Sticker"/>
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/dhanya-sharma-5a6392358/)  
+## 📫 Connect With Me
+[![LinkedIn](https://www.linkedin.com/in/dhanya-sharma-5a6392358/)  
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourGithubUsername&label=Profile+Views&color=blue&style=plastic" alt="DhanyaSharma" />
+</p>
 
 ⭐ **Thanks for visiting my profile!**
